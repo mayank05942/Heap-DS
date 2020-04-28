@@ -8,3 +8,4 @@
 8 - Sort an almost sorted array or K sorted array-  https://www.geeksforgeeks.org/nearly-sorted-algorithm/   [IMP]
 9-  Find K Closest Elements - https://leetcode.com/problems/find-k-closest-elements/     [IMP]
 10- Min Cost to connect Ropes/Sticks [Amazon] - https://www.interviewbit.com/problems/connect-ropes-with-minimum-length/  [IMP]
+    Note: This question is based on Huffman coding scheme
