@@ -4,7 +4,7 @@
 4-  Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/    [IMP]
 5 - Sort Characters By Frequency - https://leetcode.com/problems/sort-characters-by-frequency/  [IMP]---> When k is not provided
 6 -Top K Frequent Words- https://leetcode.com/problems/top-k-frequent-words/   [IMP] 
-7 -K Closest Points to Origin - https://leetcode.com/problems/k-closest-points-to-origin/     
-8 - Min Cost of connect sticks (AMAZON) or Min Cost to connect ropes -
-      Link https://www.interviewbit.com/problems/connect-ropes-with-minimum-length/  [IMP]
-9- Find K Closest Element- https://leetcode.com/problems/find-k-closest-elements/   [IMP]
+7 -K Closest Points to Origin - https://leetcode.com/problems/k-closest-points-to-origin/
+8 - Sort an almost sorted array or K sorted array-  https://www.geeksforgeeks.org/nearly-sorted-algorithm/   [IMP]
+9-  Find K Closest Elements - https://leetcode.com/problems/find-k-closest-elements/     [IMP]
+10- Min Cost to connect Ropes/Sticks [Amazon] - https://www.interviewbit.com/problems/connect-ropes-with-minimum-length/  [IMP]
