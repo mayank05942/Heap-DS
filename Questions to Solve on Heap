@@ -1,11 +1,25 @@
 1- Third Max Number - https://leetcode.com/problems/third-maximum-number/
+
 2 - kth largest Number - https://leetcode.com/problems/kth-largest-element-in-an-array/
+
 3 - kth largest element in the stream - https://leetcode.com/problems/kth-largest-element-in-a-stream/   [IMP]
+
 4-  Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/    [IMP]
+
 5 - Sort Characters By Frequency - https://leetcode.com/problems/sort-characters-by-frequency/  [IMP]---> When k is not provided
+
 6 -Top K Frequent Words- https://leetcode.com/problems/top-k-frequent-words/   [IMP] 
+
 7 -K Closest Points to Origin - https://leetcode.com/problems/k-closest-points-to-origin/
+
 8 - Sort an almost sorted array or K sorted array-  https://www.geeksforgeeks.org/nearly-sorted-algorithm/   [IMP]
+
 9-  Find K Closest Elements - https://leetcode.com/problems/find-k-closest-elements/     [IMP]
+
 10- Min Cost to connect Ropes/Sticks [Amazon] - https://www.interviewbit.com/problems/connect-ropes-with-minimum-length/  [IMP]
+
     Note: This question is based on Huffman coding scheme
+    
+11 - https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+
+
